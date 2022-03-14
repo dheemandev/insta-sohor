@@ -256,3 +256,17 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+
+/* bonus */
+.title{
+  font-size: 20px;
+  color: green;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.paragraph{
+  font-size: 14px;
+  text-align: center;
+}
